@@ -1,26 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cem Berk Öngay</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemberkongay&label=Profile%20views&color=0e75b6&style=flat" alt="cemberkongay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cemberkongay" alt="cemberkongay" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://thinksmobility.com/" target="_blank"><img align="center" src="https://thinksmobility.com/wp-content/uploads/2022/02/logo.svg" alt="Tmob" height="60" width="80" /></a>
 
 - 🌱 I’m currently learning **swift**
 
 - 💬 Ask me about **C#, .Net**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cberkongay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cberkongay" height="30" width="40" /></a>
 <a href="https://medium.com/@cberk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cberk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cemberkongay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemberkongay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cberkongay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cberkongay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemberkongay&show_icons=true&locale=en&layout=compact" alt="cemberkongay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemberkongay&show_icons=true&locale=en" alt="cemberkongay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemberkongay&" alt="cemberkongay" /></p>
